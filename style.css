@@ -1,1 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+.start{
+width: 237px;
+height: 94px;
+left: 619px;
+top: 650px;
 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+.container{
+  width: 516px;
+  height: 133px;
+  left: 480px;
+  top: 630px;
+  background-color: rgb(0, 0, 0);
+}
