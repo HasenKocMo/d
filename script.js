@@ -1,4 +1,4 @@
-let cardtext = querySelector('.card-text')
+let cardtext = document.querySelector('.card-text')
 var card = document.querySelector(".card");
 
 function getRandomInt(min, max) {
